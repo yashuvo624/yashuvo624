@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Your Name
 
-<!--
-**yashuvo624/yashuvo624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a Computer Science student at **Dhaka International University** 🎓  
+I am passionate about **Web Development & UI Design** 💻🎨  
 
-Here are some ideas to get you started:
+Currently learning **Full Stack Web Development (MERN Stack)** and **AI** 🤖  
+Focused on building modern, responsive, and user-friendly web applications 🌐  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack (Learning & Working On)
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🟢 Node.js & Express.js  
+- 🍃 MongoDB  
+- 🤖 Basics of AI/ML  
+
+---
+
+## 📚 Currently Learning
+- Advanced React & State Management  
+- Full Stack MERN Projects  
+- UI/UX Design Principles  
+- API Development  
+
+---
+
+## 💡 Goals
+- Build real-world full stack projects 🚀  
+- Contribute to open source 💙  
+- Become a professional full stack developer 🌟  
+
+---
+
+## 📫 Connect With Me
+- Email: your-email@example.com  
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+## ⚡ Fun Fact
+I love turning ideas into real projects through code 🚀
