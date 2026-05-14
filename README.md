@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Your Name
+# Hi there 👋, I'm Yasin Almahmud (Shuvo)
 
 ## 🚀 About Me
-I am a Computer Science student at **Dhaka International University** 🎓  
+I am a Computer Science and Engineering student at **Dhaka International University** 🎓  
 I am passionate about **Web Development & UI Design** 💻🎨  
 
 Currently learning **Full Stack Web Development (MERN Stack)** and **AI** 🤖  
@@ -35,9 +35,9 @@ Focused on building modern, responsive, and user-friendly web applications 🌐
 ---
 
 ## 📫 Connect With Me
-- Email: your-email@example.com  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: yasinalmahmudshuvo624@gmail.com.com    
+- LinkedIn: https://www.linkedin.com/in/yasin-almahmud-377929291/
+- Facebook: https://www.facebook.com/yasinalmahmodofficial
 
 ---
 
